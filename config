@@ -229,4 +229,6 @@ bar {
     position top
 }
 
+exec python3 /home/ates-isf/Scripts/startfix.py
+
 include /etc/sway/config.d/*
